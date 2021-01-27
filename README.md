@@ -11,3 +11,8 @@ Automatically calculate the probability to select the course, then commit them t
 
 1. Sign-in the NTU selection system.
 2. Copy the extid from the url bar of your browser.
+
+## Require package:
+
+1. requests
+2. beautifulsoup4
